@@ -122,7 +122,7 @@
         "symfony/string": "^5.4 || ^6.0",
         "symfony/templating": "^5.4 || ^6.0",
         "symfony/translation": "^5.4 || ^6.0",
-        "symfony/translation-contracts": "^2.5",
+        "symfony/translation-contracts": "^3.2",
         "symfony/twig-bundle": "^5.4 || ^6.0",
         "symfony/validator": "^5.4 || ^6.0",
         "symfony/webpack-encore-bundle": "^1.15",
