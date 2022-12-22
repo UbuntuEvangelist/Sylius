@@ -64,7 +64,7 @@
         "payum/payum-bundle": "^2.5",
         "php-http/guzzle6-adapter": "^2.0",
         "php-http/message-factory": "^1.0",
-        "psr/cache": "^2.0",
+        "psr/cache": "^3.0",
         "psr/log": "^2.0",
         "ramsey/uuid": "^4.0",
         "sonata-project/block-bundle": "^4.2",
