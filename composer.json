@@ -65,7 +65,7 @@
         "php-http/guzzle6-adapter": "^2.0",
         "php-http/message-factory": "^1.0",
         "psr/cache": "^2.0",
-        "psr/log": "^2.0",
+        "psr/log": "^3.0",
         "ramsey/uuid": "^4.0",
         "sonata-project/block-bundle": "^4.2",
         "stof/doctrine-extensions-bundle": "^1.4",
